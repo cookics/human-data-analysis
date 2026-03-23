@@ -1,0 +1,13 @@
+arc_agi_v1_public_eval/
+arc_agi_v2_public_eval/
+ARC-AGI/
+ARC-AGI-2/
+*.png
+.RData
+.Rhistory
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+buildtmp/
