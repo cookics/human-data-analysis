@@ -4,7 +4,9 @@ license: mit
 
 # ARC-AGI-2 Human testing data
 
-This file contains data from human testing sessions on ARC-AGI tasks. 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/cookics/human-data-analysis)
+
+This repository contains data from human testing sessions on ARC-AGI tasks. 
 
 Each row represents a single test attempt by a human participant on a specific task-test pair in the "Public Train" or "Public Eval" ARC-AGI-2 datasets. Not all tasks in the released "Public Train"
 sets were tested, so these results are not comprehensive. This data does not include tasks from "Semi Private Evaluation" or "Private Evaluation"
